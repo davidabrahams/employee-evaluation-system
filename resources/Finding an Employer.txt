@@ -1,0 +1,9 @@
+By sorting:
+
+1.	Sort the employer table based on a data field you know of the employer.
+2.	Find the employer
+
+By searching:
+
+1.	Start typing a data field of the employer into the search bar
+2.	Eventually, all items will be cleared other than the employer you desire.

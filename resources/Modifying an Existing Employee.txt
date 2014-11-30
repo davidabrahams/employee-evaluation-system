@@ -1,0 +1,4 @@
+1.	Select the employee you would like to modify.
+2.	Click Edit.
+3.	Modify the information.
+4.	If an error message occurs, the another employee may already contain the newly edited employee number or evaluation number.

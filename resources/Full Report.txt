@@ -1,0 +1,2 @@
+1.	Select one employee you would like to view a full report for.
+2.	If no employee, or multiple employees are selected, there will be an error message

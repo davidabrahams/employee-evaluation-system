@@ -1,0 +1,6 @@
+1.	Select an Employer to place the Employee in.
+2.	Click "New Employee"
+3.	Enter Employee data
+4.	Click "Edit Evaluation Data" if you would like to store evaluation data at this time
+5.	Click Save Employee
+6.	If prompted with an error, a possible source is that an Employee with the same employee or evaluation number already exists. (If no evaluation data was entered, the evaluation number is blank, and could be the source of the error.)

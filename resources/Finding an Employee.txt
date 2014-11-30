@@ -1,0 +1,9 @@
+By sorting:
+
+1.	Sort the employee table based on a data field you know of the employee.
+2.	Find the employee
+
+By searching:
+
+1.	Start typing a data field of the employee into the search bar
+2.	Eventually, all items will be cleared other than the employee you desire.

@@ -1,0 +1,6 @@
+1.	Click File
+2.	Click Load
+3.	Alternately, you can use the shortcut Crtl-O or Cmd-O.
+4.	You will be prompted for a directory.
+5.	The four CSV data files will be loaded from the directory, if they exist and are valid.
+6.	You will be notified if the load was successful.

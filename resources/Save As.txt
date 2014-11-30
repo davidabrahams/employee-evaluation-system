@@ -1,0 +1,6 @@
+1.	Click File
+2.	Click Save As
+3.	Alternately, you can use the shortcut Crtl-Shift-S or Cmd-Shift-S.
+4.	You will be prompted for a directory.
+5.	The four CSV data files will be written to the directory.
+6.	You will be notified if the save was successful.

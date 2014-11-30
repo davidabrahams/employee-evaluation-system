@@ -1,0 +1,4 @@
+1.	Select the employer you would like to modify.
+2.	Click Edit.
+3.	Modify the information.
+4.	If an error message occurs, the another employer may already contain the newly edited employer number.

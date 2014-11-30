@@ -1,0 +1,4 @@
+1.	Click "New Employer"
+2.	Enter Employer data
+3.	Click Save Employer
+4.	If prompted with an error, a possible source is that an Employer with the same employer number already exists.

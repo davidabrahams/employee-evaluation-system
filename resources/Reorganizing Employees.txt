@@ -1,0 +1,10 @@
+To sort:
+
+1.	Click the column name you would like to sort the employees by
+2.	This will sort them in ascending order. If you would like to sort in descending order, click the column again.
+
+The reorder:
+
+1.	Select the employee(s) you would like to shift
+2.	Use the up and down arrows to shift the employees.
+3.	If an error message appears, an illegal shift may have been performed.

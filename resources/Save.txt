@@ -1,0 +1,6 @@
+1.	Click File
+2.	Click Save
+3.	Alternately, you can use the shortcut Crtl-S or Cmd-S.
+4.	If you have not specified the directory for this program, then you will be prompted for a directory.
+5.	Otherwise, the four CSV data files will be written to the directory.
+6.	You will be notified if the save was successful.

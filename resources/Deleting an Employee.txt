@@ -1,0 +1,2 @@
+1.	Select the employee(s)
+2.	Click Delete.
